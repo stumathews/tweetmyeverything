@@ -1,0 +1,36 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TweetMyEverything", "TweetMyEverything\TweetMyEverything.csproj", "{F58F5602-460F-47B1-8F07-27972EEAC563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Yedda.Twitter", "TweetMyEverything\Yedda\Yedda.Twitter.csproj", "{B5F9706D-F56D-41BA-A5D8-291C3FB76DF4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DiffuseDlgDemo", "TweetMyEverything\DiffuseDlgDemo\DiffuseDlgDemo\DiffuseDlgDemo.csproj", "{E4A345C5-3355-40F9-9A82-0A18EE336EE3}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "Setup\Setup.vdproj", "{992935FB-FE6C-4397-9B93-FA2422AE1617}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F58F5602-460F-47B1-8F07-27972EEAC563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F58F5602-460F-47B1-8F07-27972EEAC563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F58F5602-460F-47B1-8F07-27972EEAC563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F58F5602-460F-47B1-8F07-27972EEAC563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5F9706D-F56D-41BA-A5D8-291C3FB76DF4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5F9706D-F56D-41BA-A5D8-291C3FB76DF4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5F9706D-F56D-41BA-A5D8-291C3FB76DF4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5F9706D-F56D-41BA-A5D8-291C3FB76DF4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4A345C5-3355-40F9-9A82-0A18EE336EE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4A345C5-3355-40F9-9A82-0A18EE336EE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4A345C5-3355-40F9-9A82-0A18EE336EE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4A345C5-3355-40F9-9A82-0A18EE336EE3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{992935FB-FE6C-4397-9B93-FA2422AE1617}.Debug|Any CPU.ActiveCfg = Debug
+		{992935FB-FE6C-4397-9B93-FA2422AE1617}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
